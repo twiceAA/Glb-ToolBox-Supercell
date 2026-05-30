@@ -1,8 +1,8 @@
-# Glb-ToolBox-Supercell
+ # Glb-ToolBox-Supercell
 
 A Blender addon for importing Supercell GLB models directly from a Toolbox panel.
 
-![ToolBox](screenshots/toolbox.png)
+![ToolBox](https://github.com/twiceAA/Glb-ToolBox-Supercell/blob/screenshots/ToolBox.png)
 
 ## Features
 
@@ -28,25 +28,19 @@ https://github.com/Daniil-SV/gltf-Supercell-IO
 
 ## Usage
 
-1. Open the Sidebar with **N**.
-2. Open the **ToolBox** tab.
-3. Search for a model.
-4. Click the model name.
-5. The model will be imported automatically.
+1. Open the 3D Viewport.
+2. Press **N**.
+3. The **ToolBox** tab will appear on the right side.
+4. Open the **ToolBox** tab.
+5. Select a model from the list or use the search bar.
+6. Click the model name to import it into the scene.
+7. To hide the Toolbox, press **N** again or collapse the Sidebar.
 
 ## Screenshots
 
 ### ToolBox
 
-![ToolBox](screenshots/toolbox.png)
-
-### Search
-
-![Search](screenshots/search.png)
-
-### Import
-
-![Import](screenshots/import.png)
+![ToolBox](https://github.com/twiceAA/Glb-ToolBox-Supercell/blob/screenshots/ToolBox.png)
 
 ## Download
 
@@ -62,4 +56,5 @@ https://github.com/twiceAA/Glb-ToolBox-Supercell/releases/tag/v1.0
 ## License
 
 Educational and modding purposes only.
+
 
