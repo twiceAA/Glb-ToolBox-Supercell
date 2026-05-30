@@ -2,7 +2,7 @@
 
 A Blender addon for importing Supercell GLB models directly from a Toolbox panel.
 
-![ToolBox](screenshots/toolbox.png)
+![ToolBox](https://github.com/twiceAA/Glb-ToolBox-Supercell/blob/screenshots/ToolBox.png)
 
 ## Features
 
@@ -38,15 +38,7 @@ https://github.com/Daniil-SV/gltf-Supercell-IO
 
 ### ToolBox
 
-![ToolBox](screenshots/toolbox.png)
-
-### Search
-
-![Search](screenshots/search.png)
-
-### Import
-
-![Import](screenshots/import.png)
+![ToolBox](https://github.com/twiceAA/Glb-ToolBox-Supercell/blob/screenshots/ToolBox.png)
 
 ## Download
 
