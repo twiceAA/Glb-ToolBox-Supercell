@@ -52,7 +52,7 @@ https://github.com/Daniil-SV/gltf-Supercell-IO
 
 Download the latest version from:
 
-https://github.com/ВАШ_НИК/Glb-ToolBox-Supercell/releases
+https://github.com/twiceAA/Glb-ToolBox-Supercell/releases/tag/v1.0
 
 ## Credits
 
